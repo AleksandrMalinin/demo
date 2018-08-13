@@ -1,0 +1,335 @@
+{
+  "apartment": [
+    {
+      "url": "img/ap-1.jpg",
+      "title": "Студия №44",
+      "rooms": 0,
+      "decoration": "без отделки",
+      "space": "28 м",
+      "floor": "12/14",
+      "price": "1 900 000 руб.",
+      "status": "Забронировано"
+    },
+    {
+      "url": "img/ap-2.jpg",
+      "title": "Однокомнатная №666",
+      "rooms": 1,
+      "decoration": "базовая отделка",
+      "space": "66 м",
+      "floor": "6/6",
+      "price": "1 666 666 руб.",
+      "status": "Свободно"
+    },
+    {
+      "url": "img/ap-3.jpg",
+      "title": "Двухкомнатная №567",
+      "rooms": 2,
+      "decoration": "черновая отделка",
+      "space": "65.6 м",
+      "floor": "7/14",
+      "price": "5 900 000 руб.",
+      "status": "Продано"
+    },
+    {
+      "url": "img/ap-4.jpg",
+      "title": "Трехкомнатная №45",
+      "rooms": 3,
+      "decoration": "без отделки",
+      "space": "56 м",
+      "floor": "1/14",
+      "price": "12 900 000 руб.",
+      "status": "Забронировано"
+    },
+    {
+      "url": "img/ap-5.jpg",
+      "title": "Студия №25",
+      "sale":
+      {
+        "discount": "-17%",
+        "promo": "Шок цена!"
+      },
+      "rooms": 0,
+      "decoration": "черновая отделка",
+      "space": "18 м",
+      "floor": "12/14",
+      "price": "1 900 000 руб.",
+      "status": "Забронировано"
+    },
+    {
+      "url": "img/ap-6.jpg",
+      "title": "Четырехкомнатная №259",
+      "sale":
+      {
+        "discount": "-6%"
+      },
+      "rooms": 4,
+      "decoration": "черновая отделка",
+      "space": "98 м",
+      "floor": "14/14",
+      "price": "23 900 000 руб.",
+      "status": "Забронировано"
+    },
+    {
+      "url": "img/ap-7.jpg",
+      "title": "Однокомнатная №56",
+      "rooms": 1,
+      "decoration": "бнз отделки",
+      "space": "36 м",
+      "floor": "3/6",
+      "price": "5 666 666 руб.",
+      "status": "Свободно"
+    },
+    {
+      "url": "img/ap-8.jpg",
+      "title": "Трехкомнатная №46",
+      "rooms": 3,
+      "decoration": "черновая отделка",
+      "space": "86 м",
+      "floor": "1/6",
+      "price": "5 696 664 руб.",
+      "status": "Свободно"
+    },
+    {
+      "url": "img/ap-9.jpg",
+      "title": "Однокомнатная №2",
+      "sale":
+      {
+        "discount": "-9%",
+        "promo": "Шок цена!"
+      },
+      "rooms": 1,
+      "decoration": "черновая отделка",
+      "space": "18 м",
+      "floor": "3/14",
+      "price": "5 696 664 руб.",
+      "status": "Забронировано"
+    },
+    {
+      "url": "img/ap-10.jpg",
+      "title": "Студия №12",
+      "sale":
+      {
+        "discount": "-6%"
+      },
+      "rooms": 0,
+      "decoration": "черновая отделка",
+      "space": "38 м",
+      "floor": "6/14",
+      "price": "1 500 500 руб.",
+      "status": "Забронировано"
+    },
+    {
+      "url": "img/ap-11.jpg",
+      "title": "Однокомнатная №8",
+      "rooms": 1,
+      "decoration": "черновая отделка",
+      "space": "48 м",
+      "floor": "3/14",
+      "price": "6 200 000 руб.",
+      "status": "Забронировано"
+    },
+    {
+      "url": "img/ap-12.jpg",
+      "title": "Двухкомнатная №23",
+      "sale":
+      {
+        "discount": "-6%"
+      },
+      "rooms": 2,
+      "decoration": "базовая отделка",
+      "space": "48 м",
+      "floor": "3/14",
+      "price": "5 255 006 руб.",
+      "status": "Забронировано"
+    },
+    {
+      "url": "img/ap-2.jpg",
+      "title": "Однокомнатная №666",
+      "rooms": 1,
+      "decoration": "черновая отделка",
+      "space": "38 м",
+      "floor": "8/10",
+      "price": "1 666 666 руб.",
+      "status": "Забронировано"
+    },
+    {
+      "url": "img/ap-5.jpg",
+      "title": "Студия №25",
+      "rooms": 0,
+      "decoration": "без отделки",
+      "space": "26 м",
+      "floor": "2/5",
+      "price": "1 900 000 руб.",
+      "status": "Забронировано"
+    },
+    {
+      "url": "img/ap-8.jpg",
+      "title": "Трехкомнатная №46",
+      "rooms": 3,
+      "decoration": "базовая отделка",
+      "space": "56 м",
+      "floor": "3/5",
+      "price": "5 696 664 руб.",
+      "status": "Свободно"
+    },
+    {
+      "url": "img/ap-6.jpg",
+      "title": "Четырехкомнатная №259",
+      "sale":
+      {
+        "discount": "-10%"
+      },
+      "rooms": 4,
+      "decoration": "базовая отделка",
+      "space": "87 м",
+      "floor": "10/12",
+      "price": "23 900 000 руб.",
+      "status": "Свободно"
+    },
+    {
+      "url": "img/ap-3.jpg",
+      "title": "Двухкомнатная №567",
+      "rooms": 2,
+      "decoration": "без отделки",
+      "space": "45 м",
+      "floor": "5/5",
+      "price": "5 900 000 руб.",
+      "status": "Забронировано"
+    },
+    {
+      "url": "img/ap-3.jpg",
+      "title": "Двухкомнатная №567",
+      "rooms": 2,
+      "decoration": "базовая отделка",
+      "space": "56 м",
+      "floor": "3/5",
+      "price": "5 900 000 руб.",
+      "status": "Свободно"
+    },
+    {
+      "url": "img/ap-2.jpg",
+      "title": "Однокомнатная №666",
+      "rooms": 1,
+      "decoration": "черновая отделка",
+      "space": "42 м",
+      "floor": "1/5",
+      "price": "1 666 666 руб.",
+      "status": "Продано"
+    },
+    {
+      "url": "img/ap-5.jpg",
+      "title": "Студия №25",
+      "sale":
+      {
+        "discount": "-6%",
+        "promo": "Шок цена!"
+      },
+      "rooms": 0,
+      "decoration": "базовая отделка",
+      "space": "28 м",
+      "floor": "7/12",
+      "price": "1 900 000 руб.",
+      "status": "Свободно"
+    },
+    {
+      "url": "img/ap-8.jpg",
+      "title": "Трехкомнатная №46",
+      "rooms": 3,
+      "decoration": "базовая отделка",
+      "space": "60 м",
+      "floor": "6/9",
+      "price": "5 696 664 руб.",
+      "status": "Свободно"
+    },
+    {
+      "url": "img/ap-6.jpg",
+      "title": "Четырехкомнатная №259",
+      "rooms": 4,
+      "decoration": "базовая отделка",
+      "space": "76 м",
+      "floor": "10/10",
+      "price": "23 900 000 руб.",
+      "status": "Забронировано"
+    },
+    {
+      "url": "img/ap-3.jpg",
+      "title": "Двухкомнатная №567",
+      "rooms": 2,
+      "decoration": "базовая отделка",
+      "space": "62 м",
+      "floor": "5/5",
+      "price": "5 900 000 руб.",
+      "status": "Свободно"
+    },
+    {
+      "url": "img/ap-3.jpg",
+      "title": "Двухкомнатная №567",
+      "rooms": 2,
+      "decoration": "базовая отделка",
+      "space": "56 м",
+      "floor": "3/5",
+      "price": "5 900 000 руб.",
+      "status": "Свободно"
+    },
+    {
+      "url": "img/ap-2.jpg",
+      "title": "Однокомнатная №666",
+      "rooms": 1,
+      "decoration": "без отделки",
+      "space": "30 м",
+      "floor": "7/9",
+      "price": "1 666 666 руб.",
+      "status": "Свободно"
+    },
+    {
+      "url": "img/ap-5.jpg",
+      "title": "Студия №25",
+      "rooms": 0,
+      "decoration": "базовая отделка",
+      "space": "28 м",
+      "floor": "10/12",
+      "price": "1 900 000 руб.",
+      "status": "Продано"
+    },
+    {
+      "url": "img/ap-8.jpg",
+      "title": "Трехкомнатная №46",
+      "rooms": 3,
+      "decoration": "без отделки",
+      "space": "66 м",
+      "floor": "4/5",
+      "price": "5 696 664 руб.",
+      "status": "Свободно"
+    },
+    {
+      "url": "img/ap-6.jpg",
+      "title": "Четырехкомнатная №259",
+      "rooms": 4,
+      "decoration": "черновая отделка",
+      "space": "90 м",
+      "floor": "4/5",
+      "price": "23 900 000 руб.",
+      "status": "Забронировано"
+    },
+    {
+      "url": "img/ap-3.jpg",
+      "title": "Двухкомнатная №567",
+      "rooms": 2,
+      "decoration": "черновая отделка",
+      "space": "50 м",
+      "floor": "2/5",
+      "price": "5 900 000 руб.",
+      "status": "Свободно"
+    },
+    {
+      "url": "img/ap-3.jpg",
+      "title": "Двухкомнатная №567",
+      "rooms": 2,
+      "decoration": "базовая отделка",
+      "space": "56 м",
+      "floor": "3/5",
+      "price": "5 900 000 руб.",
+      "status": "Свободно"
+    }
+  ]
+}
